@@ -39,7 +39,7 @@ figcaption {
   float:left;
 }
 
-#details>div {
+#details div {
   background:#ffedcc;
   text-align:center;
   width:25%;
