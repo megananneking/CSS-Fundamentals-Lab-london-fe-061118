@@ -19,7 +19,7 @@ img {
 a {
   padding-left:10px;
   padding-right:10px;
-  background-color:#ff;
+  background-color:#ffedcc;
   text-align:center;
 }
 
@@ -39,7 +39,7 @@ figcaption {
 }
 
 #details>div {
-  background: #abebba;
+  background: #ffedcc;
   text-align:center;
   width:100%;
 }
