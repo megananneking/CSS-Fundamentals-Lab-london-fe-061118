@@ -42,4 +42,5 @@ figcaption {
   background: #ffedcc;
   text-align:center;
   width:25%;
+  float:left;
 }
